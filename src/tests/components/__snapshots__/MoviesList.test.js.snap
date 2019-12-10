@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render MoviesList correctly 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col s12 m6 l4"
+    key="1"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="card-image"
+      >
+        <img
+          src="www.example.com/w185/abc"
+        />
+        <span
+          className="card-title"
+        >
+          Title1
+        </span>
+      </div>
+      <div
+        className="card-action"
+      >
+        Action | Adventure
+      </div>
+    </div>
+  </div>
+  <div
+    className="col s12 m6 l4"
+    key="2"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="card-image"
+      >
+        <img
+          src="www.example.com/w185/def"
+        />
+        <span
+          className="card-title"
+        >
+          Title2
+        </span>
+      </div>
+      <div
+        className="card-action"
+      >
+        Animation | Comedy
+      </div>
+    </div>
+  </div>
+</div>
+`;

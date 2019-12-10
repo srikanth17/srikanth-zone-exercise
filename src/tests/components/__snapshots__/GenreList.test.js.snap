@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render GenreList correctly 1`] = `
+<div
+  className="row"
+>
+  <h4>
+    Genres
+  </h4>
+  <p
+    className="col s12 m6 l4"
+    key="1"
+  >
+    <label>
+      <input
+        className="filled-in"
+        name="genre"
+        onClick={[MockFunction]}
+        type="checkbox"
+        value={1}
+      />
+      <span>
+        Action
+      </span>
+    </label>
+  </p>
+  <p
+    className="col s12 m6 l4"
+    key="2"
+  >
+    <label>
+      <input
+        className="filled-in"
+        name="genre"
+        onClick={[MockFunction]}
+        type="checkbox"
+        value={2}
+      />
+      <span>
+        Adventure
+      </span>
+    </label>
+  </p>
+  <p
+    className="col s12 m6 l4"
+    key="3"
+  >
+    <label>
+      <input
+        className="filled-in"
+        name="genre"
+        onClick={[MockFunction]}
+        type="checkbox"
+        value={3}
+      />
+      <span>
+        Animation
+      </span>
+    </label>
+  </p>
+  <p
+    className="col s12 m6 l4"
+    key="4"
+  >
+    <label>
+      <input
+        className="filled-in"
+        name="genre"
+        onClick={[MockFunction]}
+        type="checkbox"
+        value={4}
+      />
+      <span>
+        Comedy
+      </span>
+    </label>
+  </p>
+  <p
+    className="col s12 m6 l4"
+    key="5"
+  >
+    <label>
+      <input
+        className="filled-in"
+        name="genre"
+        onClick={[MockFunction]}
+        type="checkbox"
+        value={5}
+      />
+      <span>
+        Crime
+      </span>
+    </label>
+  </p>
+</div>
+`;
